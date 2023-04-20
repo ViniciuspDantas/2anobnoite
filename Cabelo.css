@@ -1,1 +1,10 @@
-.
+.portfolio.portfolio-wrap::before {
+    content:" ";
+    background: rgba(33, 59, 82, 0.6);
+    position: absolute;
+    left: 100%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    tra
+}
